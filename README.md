@@ -1,6 +1,5 @@
-# C-ATOM
-C-ATOM; Click-based semi-automatic annotation tool for object detection in the maritime domain
-This is the Demo application of C-ATOM; Click-based semi-automatic annotation tool for object detection in the maritime domain.
+# C-ATOM; Click-based semi-automatic annotation tool for object detection in the maritime domain
+This is the demo client implementation of C-ATOM; Click-based semi-automatic annotation tool for object detection in the maritime domain.
 It is implemented and tested with python3.
 ## Usage
 ```
