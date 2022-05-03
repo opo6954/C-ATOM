@@ -205,7 +205,7 @@ class AnnotatorUI(tkinter.Frame):
         self.imgtkAttention = ImageTk.PhotoImage(image=img_pil_resized)
 
         canvas_instance.itemconfig(image_instance, image=self.imgtkAttention)
-        label_instance.config(text='Load file name: {}'.format(file_path))
+        label_instance.config(text='Load file name: {}'.format(os.path.split(file_path)[-1]))
         
         self.is_image_loaded = True
         
