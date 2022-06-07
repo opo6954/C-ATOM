@@ -18,7 +18,7 @@ from utils import ui_coord_to_img_coord, is_pt_inside_the_circle
 
 
 
-SERVER_URL = 'leehyeopwoo.iptime.org'
+SERVER_URL = 'kolomverse.iptime.org'
 SERVER_PORT = 20038
 
 
